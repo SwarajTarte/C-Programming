@@ -1,3 +1,9 @@
+/*
+    Program : Area_of_rectangle.c
+    Author  : Swaraj Tarte
+    Date    : 24 July 2024
+*/
+
 #include <stdio.h>
 
 int main()
