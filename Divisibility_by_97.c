@@ -1,3 +1,9 @@
+/*
+    Program : Divisibility_by_97.c
+    Author  : Swaraj Tarte
+    Date    : 25 July 2024
+*/
+
 #include <stdio.h>
 
 int main()
