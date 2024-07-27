@@ -1,5 +1,11 @@
 // This code will help you to find the grade a student got on basis of his/her %. 
 
+/*
+    Program : Student_grade.c
+    Author  : Swaraj Tarte
+    Date    : 24 July 2024
+*/
+
 #include <stdio.h>
 
 int main()
