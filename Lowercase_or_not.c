@@ -3,7 +3,6 @@
 /*
     Program : Lowercase_or_not.c
     Author  : Swaraj Tarte
-    Date    : 27 July 2024
 */
 
 #include <stdio.h>
