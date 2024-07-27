@@ -1,7 +1,8 @@
+// This code will help you to find whether the no. is divisible by 97.
+
 /*
     Program : Divisibility_by_97.c
     Author  : Swaraj Tarte
-    Date    : 25 July 2024
 */
 
 #include <stdio.h>
