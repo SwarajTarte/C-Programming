@@ -1,5 +1,11 @@
 // This code will tell you how much income tax you have to pay annually.
 
+/*
+    Program : Income_tax.c
+    Author  : Swaraj Tarte
+    Date    : 27 July 2024
+*/
+
 #include <stdio.h>
 
 int main()
