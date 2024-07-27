@@ -3,7 +3,7 @@
 /*
     Program : Student_grade.c
     Author  : Swaraj Tarte
-    Date    : 24 July 2024
+    Date    : 27 July 2024
 */
 
 #include <stdio.h>
