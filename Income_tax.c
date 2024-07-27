@@ -3,7 +3,6 @@
 /*
     Program : Income_tax.c
     Author  : Swaraj Tarte
-    Date    : 27 July 2024
 */
 
 #include <stdio.h>
