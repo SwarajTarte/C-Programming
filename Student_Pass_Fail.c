@@ -1,5 +1,11 @@
 // This code will help you find whether a student is passed or failed.
 
+/*
+    Program : Student_Pass_Fail.c
+    Author  : Swaraj Tarte
+    Date    : 27 July 2024
+*/
+
 #include <stdio.h>
 
 int main()
