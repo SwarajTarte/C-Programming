@@ -1,7 +1,8 @@
+// This code will calculate the volume of cylinder.
+
 /*
     Program : Volume_of_cylinder.c
     Author  : Swaraj Tarte
-    Date    : 24 July 2024
 */
 
 #include <stdio.h>
