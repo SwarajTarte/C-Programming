@@ -1,5 +1,11 @@
 // This will find out which number is greatest among the four entered nos.
 
+/*
+    Program : Greater_than.c
+    Author  : Swaraj Tarte
+    Date    : 27 July 2024
+*/
+
 #include <stdio.h>
 
 int main()
