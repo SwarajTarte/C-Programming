@@ -1,3 +1,10 @@
+// This code will help you to convert temperature from Celsius to Fahrenheit.
+
+/*
+    Program : Celsius_to_Fahrenheit.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int main()
