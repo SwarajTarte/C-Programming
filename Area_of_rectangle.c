@@ -1,3 +1,5 @@
+// This code will calculate area of rectangle.
+
 /*
     Program : Area_of_rectangle.c
     Author  : Swaraj Tarte
