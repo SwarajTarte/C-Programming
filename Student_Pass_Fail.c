@@ -3,7 +3,6 @@
 /*
     Program : Student_Pass_Fail.c
     Author  : Swaraj Tarte
-    Date    : 27 July 2024
 */
 
 #include <stdio.h>
