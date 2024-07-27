@@ -1,3 +1,5 @@
+// This code will calculate area of circle.
+
 /*
     Program : Area_of_circle.c
     Author  : Swaraj Tarte
