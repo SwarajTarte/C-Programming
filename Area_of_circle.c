@@ -3,7 +3,6 @@
 /*
     Program : Area_of_circle.c
     Author  : Swaraj Tarte
-    Date    : 24 July 2024
 */
 
 #include <stdio.h>
