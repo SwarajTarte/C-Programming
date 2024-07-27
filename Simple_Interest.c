@@ -1,3 +1,10 @@
+// This code will help you to calculate the simple interest.
+
+/*
+    Program : Simple_Interest.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int main()
