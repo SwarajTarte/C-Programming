@@ -6,6 +6,11 @@
     but will take input in how many lines this pattern should be printed.
 */
 
+/*
+    Program : Asterisk_pattern.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int main()
