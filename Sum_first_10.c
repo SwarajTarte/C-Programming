@@ -1,6 +1,11 @@
 // This code will print the sum of first ten natural nos.
 //  Contains while-loop ; for-loop ; do-while-loop
 
+/*
+    Program : Sum_first_10.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int main()
