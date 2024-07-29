@@ -1,6 +1,11 @@
 // This code will print the numbers in reverse order from the given input till 0.
 // This code contains decrement for loop.
 
+/*
+    Program : Reverse_no.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int main()
