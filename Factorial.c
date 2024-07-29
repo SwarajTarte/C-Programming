@@ -2,6 +2,11 @@
 // A factorial, denoted by an exclamation point (e.g., ( n! )), is a mathematical operation that multiplies a given positive integer ( n ) by all the positive integers less than it. For example, the factorial of 5 (written as ( 5! )) is calculated as: 5!=5×4×3×2×1=120
 // Contains for loop
 
+/*
+    Program : Factorial.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int main()
