@@ -1,6 +1,11 @@
 // This code will print the natural nos. till the limit given by user.
 // This code contains do-while loop.
 
+/*
+    Program : Natural_no_do-while.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int main()
