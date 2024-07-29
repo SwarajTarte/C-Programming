@@ -1,6 +1,11 @@
 // This program will provide the sum of multiplication table of the given number
 // Contains for loop
 
+/*
+    Program : Sum_table.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int main()
