@@ -1,8 +1,15 @@
+// This code will provide the term in fibonacci series on the position entered by user.
+
+/*
+    Program : Fibonacci.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int fibonacci(int);
 
-int fibonaaci(int n)
+int fibonacci(int n)
 {
     if (n == 1 || n == 2)
     {
@@ -10,17 +17,17 @@ int fibonaaci(int n)
     }
     else
     {
-        return (fibonaaci(n - 1)) + (fibonaaci(n - 2));
+        return (fibonacci(n - 1)) + (fibonacci(n - 2));
     }
 }
 int main()
 {
     int term;
 
-    printf("Enter the position of required term of Fibonaaci Series: \n");
+    printf("Enter the position of required term of Fibonacci Series: \n");
     scanf("%d", &term);
 
-    printf("The %d term of Fibonaaci Series is %d.", term, fibonaaci(term));
+    printf("The %d term of Fibonaaci Series is %d.", term, fibonacci(term));
 
     return 0;
 }
