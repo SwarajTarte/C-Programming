@@ -1,3 +1,10 @@
+// This code will generate a random no. you will have to guess the generated no. this code would not stop until you guess the correct no.
+
+/*
+    Program : Guess_no_game.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
