@@ -1,3 +1,10 @@
+// This program will provide average of given 3 nos.
+
+/*
+    Program : Average.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 float average(int, int, int);
