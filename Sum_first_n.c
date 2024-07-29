@@ -1,5 +1,10 @@
 // This code will take a no. as an input from user and sum all the natural nos. till that no.
 
+/*
+    Program : Sum_first_n.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int sum(int);
