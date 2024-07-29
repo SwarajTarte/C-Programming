@@ -1,6 +1,11 @@
 // This code will give the multiplication table of the no. entered by user.
 // Contains while loop
 
+/*
+    Program : Multiplication_Table.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int main()
