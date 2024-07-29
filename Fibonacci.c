@@ -27,7 +27,7 @@ int main()
     printf("Enter the position of required term of Fibonacci Series: \n");
     scanf("%d", &term);
 
-    printf("The %d term of Fibonaaci Series is %d.", term, fibonacci(term));
+    printf("The %d term of Fibonacci Series is %d.", term, fibonacci(term));
 
     return 0;
 }
