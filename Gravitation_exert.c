@@ -1,5 +1,10 @@
 // This code will give the gravitational force exerted by earth on the body whose mass has been provided.
 
+/*
+    Program : Gravitation_exert.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 float gravitation(float);
