@@ -1,6 +1,11 @@
 // This code will tell whether the input is a prime no. or not.
 // contains all loops
 
+/*
+    Program : Prime_no.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int main()
