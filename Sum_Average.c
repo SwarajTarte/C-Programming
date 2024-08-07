@@ -1,5 +1,10 @@
 // This code calculates the sum and average of two numbers using pointers and function.
 
+/*
+    Program : Sum_Average.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 float sum(float *a, float *b);
