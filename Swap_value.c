@@ -1,5 +1,10 @@
 // This code will swap the value of i variable with the 10 times value entered by the user.
 
+/*
+    Program : Swap_value.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int ten(int *);
