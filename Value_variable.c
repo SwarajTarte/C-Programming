@@ -1,5 +1,10 @@
 // This code uses pointer to pointer variable to print value of variable.
 
+/*
+    Program : Value_variable.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int main()
