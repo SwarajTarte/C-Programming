@@ -1,5 +1,10 @@
 // This code will give you the product of the entered numbers by using call by reference.
 
+/*
+    Program : Product.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int multiply(int *a, int *b);
