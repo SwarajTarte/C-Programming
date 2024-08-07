@@ -1,5 +1,10 @@
 // This code will print the memory address of the number entered by user.
 
+/*
+    Program : Address.c
+    Author  : Swaraj Tarte
+*/
+
 #include <stdio.h>
 
 int main()
